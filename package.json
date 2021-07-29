@@ -1,0 +1,17 @@
+{
+  "name": "jandan",
+  "version": "0.0.1",
+  "description": "煎蛋无聊图收集站",
+  "main": "index.js",
+  "repository": "git@github.com:AnonBug/jandan.git",
+  "author": "AnonBug <1248758606@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "markdown-it-disable-url-encode": "^1.0.1",
+    "vuepress": "^1.8.2"
+  }
+}
